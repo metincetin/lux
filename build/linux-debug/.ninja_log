@@ -1,0 +1,15 @@
+# ninja log v6
+2	650	1721171429837838986	examples/hello_world/CMakeFiles/lux_samples_helloworld.dir/main.cpp.o	1ba90d83b7ec7586
+10	878	1721171091708226439	CMakeFiles/lux.dir/src/renderer.cpp.o	5f806c9a4bfd575
+11	747	1721171091709226444	CMakeFiles/lux.dir/src/implementations/opengl_implementation.cpp.o	5c6a00f46e94ae34
+10	719	1721171091708226439	CMakeFiles/lux.dir/external/glad/src/glad.c.o	dfcd6191e0aa0692
+11	709	1721171091709226444	CMakeFiles/lux.dir/src/tree/node.cpp.o	da70f21fd024147
+10	342	1721171091708226439	CMakeFiles/lux.dir/src/index_buffer.cpp.o	4f146d3bac80dafb
+11	1272	1721171091709226444	examples/mesh/CMakeFiles/lux_samples_mesh.dir/main.cpp.o	fabab3d2090c26ec
+10	351	1721171091708226439	CMakeFiles/lux.dir/src/vertex_buffer.cpp.o	94ce6a37e6d8ff30
+10	301	1721171091708226439	CMakeFiles/lux.dir/src/render_pass_queue.cpp.o	5d6bfdee4dac483d
+10	150	1721171091708226439	CMakeFiles/lux.dir/src/memory.cpp.o	3eb1b2112e5585d0
+8	40	1721171445562913981	build.ninja	f22545a1c7c010ac
+650	714	1721171430485842077	examples/hello_world/lux_samples_helloworld	70e1790e76893178
+2	80	1721171323349331143	liblux.so	def203a26897b62c
+2	65	1721171446706919437	examples/mesh/lux_samples_mesh	c54af20995733eb6

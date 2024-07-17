@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/metin/Projects/lux/build/linux-debug",
+  "command": "/usr/bin/cc -Dlux_EXPORTS -I/home/metin/Projects/lux/external/glad/include -g -fPIC -o CMakeFiles/lux.dir/external/glad/src/glad.c.o -c /home/metin/Projects/lux/external/glad/src/glad.c",
+  "file": "/home/metin/Projects/lux/external/glad/src/glad.c",
+  "output": "CMakeFiles/lux.dir/external/glad/src/glad.c.o"
+},
+{
+  "directory": "/home/metin/Projects/lux/build/linux-debug",
+  "command": "/usr/bin/c++ -Dlux_EXPORTS -I/home/metin/Projects/lux/external/glad/include -g -fPIC -o CMakeFiles/lux.dir/src/renderer.cpp.o -c /home/metin/Projects/lux/src/renderer.cpp",
+  "file": "/home/metin/Projects/lux/src/renderer.cpp",
+  "output": "CMakeFiles/lux.dir/src/renderer.cpp.o"
+},
+{
+  "directory": "/home/metin/Projects/lux/build/linux-debug",
+  "command": "/usr/bin/c++ -Dlux_EXPORTS -I/home/metin/Projects/lux/external/glad/include -g -fPIC -o CMakeFiles/lux.dir/src/memory.cpp.o -c /home/metin/Projects/lux/src/memory.cpp",
+  "file": "/home/metin/Projects/lux/src/memory.cpp",
+  "output": "CMakeFiles/lux.dir/src/memory.cpp.o"
+},
+{
+  "directory": "/home/metin/Projects/lux/build/linux-debug",
+  "command": "/usr/bin/c++ -Dlux_EXPORTS -I/home/metin/Projects/lux/external/glad/include -g -fPIC -o CMakeFiles/lux.dir/src/render_pass_queue.cpp.o -c /home/metin/Projects/lux/src/render_pass_queue.cpp",
+  "file": "/home/metin/Projects/lux/src/render_pass_queue.cpp",
+  "output": "CMakeFiles/lux.dir/src/render_pass_queue.cpp.o"
+},
+{
+  "directory": "/home/metin/Projects/lux/build/linux-debug",
+  "command": "/usr/bin/c++ -Dlux_EXPORTS -I/home/metin/Projects/lux/external/glad/include -g -fPIC -o CMakeFiles/lux.dir/src/vertex_buffer.cpp.o -c /home/metin/Projects/lux/src/vertex_buffer.cpp",
+  "file": "/home/metin/Projects/lux/src/vertex_buffer.cpp",
+  "output": "CMakeFiles/lux.dir/src/vertex_buffer.cpp.o"
+},
+{
+  "directory": "/home/metin/Projects/lux/build/linux-debug",
+  "command": "/usr/bin/c++ -Dlux_EXPORTS -I/home/metin/Projects/lux/external/glad/include -g -fPIC -o CMakeFiles/lux.dir/src/index_buffer.cpp.o -c /home/metin/Projects/lux/src/index_buffer.cpp",
+  "file": "/home/metin/Projects/lux/src/index_buffer.cpp",
+  "output": "CMakeFiles/lux.dir/src/index_buffer.cpp.o"
+},
+{
+  "directory": "/home/metin/Projects/lux/build/linux-debug",
+  "command": "/usr/bin/c++ -Dlux_EXPORTS -I/home/metin/Projects/lux/external/glad/include -g -fPIC -o CMakeFiles/lux.dir/src/tree/node.cpp.o -c /home/metin/Projects/lux/src/tree/node.cpp",
+  "file": "/home/metin/Projects/lux/src/tree/node.cpp",
+  "output": "CMakeFiles/lux.dir/src/tree/node.cpp.o"
+},
+{
+  "directory": "/home/metin/Projects/lux/build/linux-debug",
+  "command": "/usr/bin/c++ -Dlux_EXPORTS -I/home/metin/Projects/lux/external/glad/include -g -fPIC -o CMakeFiles/lux.dir/src/implementations/opengl_implementation.cpp.o -c /home/metin/Projects/lux/src/implementations/opengl_implementation.cpp",
+  "file": "/home/metin/Projects/lux/src/implementations/opengl_implementation.cpp",
+  "output": "CMakeFiles/lux.dir/src/implementations/opengl_implementation.cpp.o"
+},
+{
+  "directory": "/home/metin/Projects/lux/build/linux-debug",
+  "command": "/usr/bin/c++ -I/home/metin/Projects/lux/external/glad/include -I/home/metin/Projects/lux/src -g -o examples/hello_world/CMakeFiles/lux_samples_helloworld.dir/main.cpp.o -c /home/metin/Projects/lux/examples/hello_world/main.cpp",
+  "file": "/home/metin/Projects/lux/examples/hello_world/main.cpp",
+  "output": "examples/hello_world/CMakeFiles/lux_samples_helloworld.dir/main.cpp.o"
+},
+{
+  "directory": "/home/metin/Projects/lux/build/linux-debug",
+  "command": "/usr/bin/c++ -I/home/metin/Projects/lux/external/glad/include -I/home/metin/Projects/lux/src -g -o examples/mesh/CMakeFiles/lux_samples_mesh.dir/main.cpp.o -c /home/metin/Projects/lux/examples/mesh/main.cpp",
+  "file": "/home/metin/Projects/lux/examples/mesh/main.cpp",
+  "output": "examples/mesh/CMakeFiles/lux_samples_mesh.dir/main.cpp.o"
+}
+]

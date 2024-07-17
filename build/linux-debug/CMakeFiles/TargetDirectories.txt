@@ -1,0 +1,11 @@
+/home/metin/Projects/lux/build/linux-debug/CMakeFiles/lux.dir
+/home/metin/Projects/lux/build/linux-debug/CMakeFiles/edit_cache.dir
+/home/metin/Projects/lux/build/linux-debug/CMakeFiles/rebuild_cache.dir
+/home/metin/Projects/lux/build/linux-debug/examples/CMakeFiles/edit_cache.dir
+/home/metin/Projects/lux/build/linux-debug/examples/CMakeFiles/rebuild_cache.dir
+/home/metin/Projects/lux/build/linux-debug/examples/hello_world/CMakeFiles/lux_samples_helloworld.dir
+/home/metin/Projects/lux/build/linux-debug/examples/hello_world/CMakeFiles/edit_cache.dir
+/home/metin/Projects/lux/build/linux-debug/examples/hello_world/CMakeFiles/rebuild_cache.dir
+/home/metin/Projects/lux/build/linux-debug/examples/mesh/CMakeFiles/lux_samples_mesh.dir
+/home/metin/Projects/lux/build/linux-debug/examples/mesh/CMakeFiles/edit_cache.dir
+/home/metin/Projects/lux/build/linux-debug/examples/mesh/CMakeFiles/rebuild_cache.dir
